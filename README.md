@@ -18,15 +18,12 @@ Soy estudiante, estudio en la Universidad de Guayaquil, facultad de Ciencias, Ma
 
 
 
-Aquí hay algunos de mis proyectos más destacados:
+Aquí hay uno de mis proyectos más destacados:
 
 
 
-- [Nombre del proyecto 1](link al proyecto 1): Una descripción breve del proyecto 1.
+- Proyecto 1P Construcción de Software(Proyecto 1P Construcción de Software - WORD - GRUPO 1.docx): En el documento veremos lo que es la Refactorización del Código.
 
-- [Nombre del proyecto 2](link al proyecto 2): Una descripción breve del proyecto 2.
-
-- [Nombre del proyecto 3](link al proyecto 3): Una descripción breve del proyecto 3.
 
 
 
@@ -42,4 +39,4 @@ Twitter: https://twitter.com/anabell7w7
 
 
 
-Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!
+Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentren útil e interesante! Saludos! :3
