@@ -2,15 +2,17 @@
 
 Hola, me presento, mi nombre es Anabell y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
-
-## Acerca de mí
-
 ###  Me :D
 ![ ana ](ana.png)
 
+
+## Acerca de mí
+
+
+
 Soy estudiante, estudio en la Universidad de Guayaquil, facultad de Ciencias, Matemáticas y Física, sigo la carrera de Software. Me apasiona la informática y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer. Me considero una persona responsable en ciertas cosas importantes, a veces me gusta ayudar a las personas, pero no me gusta socializar, ni conocer a gente nueva.
 
-
+![ software ](software.jpg)
 
 ## Proyectos
 
@@ -32,7 +34,11 @@ Aquí hay algunos de mis proyectos más destacados:
 
 
 
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en [ana.chica98@gmail.com]. También puede encontrarme en [tus perfiles en las redes sociales].
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en ana.chica98@gmail.com. 
+También puede encontrarme en: 
+<br>
+<br>
+Twitter: https://twitter.com/anabell7w7
 
 
 
