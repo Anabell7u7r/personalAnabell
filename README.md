@@ -22,7 +22,7 @@ Aquí hay uno de mis proyectos más destacados:
 
 
 
-- Proyecto 1P Construcción de Software(Proyecto 1P Construcción de Software - WORD - GRUPO 1.docx): En el documento veremos lo que es la Refactorización del Código.
+- Construcción de Software https://ugye-my.sharepoint.com/:w:/g/personal/ana_chicag_ug_edu_ec/EW6eePkId3pFppp-2ewQELwBclWHbXQqSyTv2qamP-COVw?e=wVQixG: En el documento veremos lo que es la Refactorización del Código y sus objetivos.
 
 
 
